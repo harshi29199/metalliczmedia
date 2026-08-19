@@ -1,0 +1,2 @@
+C:/Users/USER/StudioProjects/metallicz/android/app/.cxx/RelWithDebInfo/42201o18/x86/CMakeFiles/edit_cache.dir
+C:/Users/USER/StudioProjects/metallicz/android/app/.cxx/RelWithDebInfo/42201o18/x86/CMakeFiles/rebuild_cache.dir

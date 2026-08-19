@@ -1,0 +1,2 @@
+C:/Users/USER/StudioProjects/metallicz/android/app/.cxx/Debug/3q6m2e5g/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/USER/StudioProjects/metallicz/android/app/.cxx/Debug/3q6m2e5g/arm64-v8a/CMakeFiles/rebuild_cache.dir
